@@ -1,0 +1,7 @@
+.env
+__pycache__/*
+__pycache__
+buyorders.csv
+sellorders.csv
+TradingBot.rar
+stra.py
