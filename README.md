@@ -11,3 +11,5 @@ pip install python-dotenv # For Config // https://github.com/theskumar/python-do
 
 you have to change .env-default to .env and set the keys inside it with take profit (TpTargetPercent) and stop loss (StpTargetPercent) percentages 
 and the  pair symbol from binance with balance that you want to use in trading 
+
+you will find the indicators inside the stra file
